@@ -7,6 +7,9 @@ import (
 	"fmt"
 )
 
+/**
+http://www.topgoer.com 学习网站
+*/
 func main() {
 	//初始化全局配置
 	global.GVA_VP = core.Viper()
